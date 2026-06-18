@@ -52,8 +52,3 @@ Ejemplos inválidos:
 * Python
 * PySide6
 * Qt Designer
-
-
-
-
-Emily
